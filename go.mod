@@ -17,6 +17,5 @@ require (
 	github.com/stretchr/testify v1.5.1
 	github.com/tidwall/redcon v1.2.1
 	golang.org/x/exp v0.0.0-20190731235908-ec7cb31e5a56
-	golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/text v0.3.8 // indirect
 )
